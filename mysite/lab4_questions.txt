@@ -1,0 +1,32 @@
+'''
+1. github.com/
+
+2. Install success!
+
+3. you get a 404 error for not found for / 
+ for / polls you get a list of questions
+
+4. Migration handles the changes in our database. It is used when we create or edit files.
+
+5.  admin.site.register(Question)
+admin.site.register(Choice)
+A page that shows 
+Django administration
+Site administration
+Authentication and Authorization Groups 	
+Add/Change Groups and Users
+Polls - Questions (add/change)
+Recent actions "My actions" 
+
+6. youre looking at question 38 (for polls/38)
+youre looking at results for question 38 (for polls/38/results)
+youre voting on question 38 (for polls/38)
+
+
+404 Page not found for polls/38 and polls/38/results and if you use "38".
+
+7. Its more difficult to maintain and modify it in the furure as the database gets larger.
+
+8. You can write views quicker and with less code. You don't have to copy paste the same code in multiple places.
+
+'''
